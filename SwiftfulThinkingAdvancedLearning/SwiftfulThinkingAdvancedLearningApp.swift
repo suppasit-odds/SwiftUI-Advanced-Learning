@@ -22,7 +22,8 @@ struct SwiftfulThinkingAdvancedLearningApp: App {
     
     var body: some Scene {
         WindowGroup {
-            PropertyWrapperBootcamp()
+            PropertyWrapper2Bootcamp()
+//            PropertyWrapperBootcamp()
 //            Text("Hello, developers!")
         }
     }

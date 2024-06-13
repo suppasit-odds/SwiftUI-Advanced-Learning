@@ -58,6 +58,7 @@
 		02EB4F5827320E6300CFCDF8 /* CloudKitCrudBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB4F5727320E6300CFCDF8 /* CloudKitCrudBootcamp.swift */; };
 		02EB4F5C2734AF1600CFCDF8 /* CloudKitPushNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB4F5B2734AF1600CFCDF8 /* CloudKitPushNotificationBootcamp.swift */; };
 		02EB4F5E2734BF3E00CFCDF8 /* CloudKitUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB4F5D2734BF3E00CFCDF8 /* CloudKitUtility.swift */; };
+		B41F8AD42C167C3800530F0C /* PropertyWrapper2Bootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41F8AD32C167C3800530F0C /* PropertyWrapper2Bootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -136,6 +137,7 @@
 		02EB4F5727320E6300CFCDF8 /* CloudKitCrudBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitCrudBootcamp.swift; sourceTree = "<group>"; };
 		02EB4F5B2734AF1600CFCDF8 /* CloudKitPushNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitPushNotificationBootcamp.swift; sourceTree = "<group>"; };
 		02EB4F5D2734BF3E00CFCDF8 /* CloudKitUtility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitUtility.swift; sourceTree = "<group>"; };
+		B41F8AD32C167C3800530F0C /* PropertyWrapper2Bootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyWrapper2Bootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -247,6 +249,7 @@
 				025725E42AC3D9A8009ADA4A /* ErrorAlertBootcamp.swift */,
 				025725E62AC66412009ADA4A /* KeypathsBootcamp.swift */,
 				025725EA2AC70DE5009ADA4A /* PropertyWrapperBootcamp.swift */,
+				B41F8AD32C167C3800530F0C /* PropertyWrapper2Bootcamp.swift */,
 				029F8D8A26D45816006039A7 /* Assets.xcassets */,
 				029F8D8F26D45816006039A7 /* Info.plist */,
 				029F8D8C26D45816006039A7 /* Preview Content */,
@@ -478,6 +481,7 @@
 				029F8E0F26ED04A4006039A7 /* UIViewRepresentableBootcamp.swift in Sources */,
 				02EB4F5E2734BF3E00CFCDF8 /* CloudKitUtility.swift in Sources */,
 				029F8D9826D45DF5006039A7 /* ButtonStyleBootcamp.swift in Sources */,
+				B41F8AD42C167C3800530F0C /* PropertyWrapper2Bootcamp.swift in Sources */,
 				025725EB2AC70DE5009ADA4A /* PropertyWrapperBootcamp.swift in Sources */,
 				029F8D9626D45851006039A7 /* ViewModifierBootcamp.swift in Sources */,
 				029F8DCA26DAF6DC006039A7 /* AnimateableDataBootcamp.swift in Sources */,
