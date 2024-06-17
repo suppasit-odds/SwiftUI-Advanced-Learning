@@ -60,6 +60,7 @@
 		02EB4F5E2734BF3E00CFCDF8 /* CloudKitUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB4F5D2734BF3E00CFCDF8 /* CloudKitUtility.swift */; };
 		B41F8AD42C167C3800530F0C /* PropertyWrapper2Bootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41F8AD32C167C3800530F0C /* PropertyWrapper2Bootcamp.swift */; };
 		B4C5C4F72C1D165D00D4E68F /* SubscriptsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C5C4F62C1D165D00D4E68F /* SubscriptsBootcamp.swift */; };
+		B4C5C4F92C1FF43F00D4E68F /* CustomOperatorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C5C4F82C1FF42E00D4E68F /* CustomOperatorBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -140,6 +141,7 @@
 		02EB4F5D2734BF3E00CFCDF8 /* CloudKitUtility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitUtility.swift; sourceTree = "<group>"; };
 		B41F8AD32C167C3800530F0C /* PropertyWrapper2Bootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyWrapper2Bootcamp.swift; sourceTree = "<group>"; };
 		B4C5C4F62C1D165D00D4E68F /* SubscriptsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptsBootcamp.swift; sourceTree = "<group>"; };
+		B4C5C4F82C1FF42E00D4E68F /* CustomOperatorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomOperatorBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -253,6 +255,7 @@
 				025725EA2AC70DE5009ADA4A /* PropertyWrapperBootcamp.swift */,
 				B41F8AD32C167C3800530F0C /* PropertyWrapper2Bootcamp.swift */,
 				B4C5C4F62C1D165D00D4E68F /* SubscriptsBootcamp.swift */,
+				B4C5C4F82C1FF42E00D4E68F /* CustomOperatorBootcamp.swift */,
 				029F8D8A26D45816006039A7 /* Assets.xcassets */,
 				029F8D8F26D45816006039A7 /* Info.plist */,
 				029F8D8C26D45816006039A7 /* Preview Content */,
@@ -515,6 +518,7 @@
 				029F8DE126E66F43006039A7 /* ScrollViewOffsetPreferenceKeyBootcamp.swift in Sources */,
 				029F8DC826DAE4D5006039A7 /* CustomCurvesBootcamp.swift in Sources */,
 				029F8DF126E6D23A006039A7 /* CustomTabBarContainerView.swift in Sources */,
+				B4C5C4F92C1FF43F00D4E68F /* CustomOperatorBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
