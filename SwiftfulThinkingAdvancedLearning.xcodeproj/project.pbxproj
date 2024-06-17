@@ -59,6 +59,7 @@
 		02EB4F5C2734AF1600CFCDF8 /* CloudKitPushNotificationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB4F5B2734AF1600CFCDF8 /* CloudKitPushNotificationBootcamp.swift */; };
 		02EB4F5E2734BF3E00CFCDF8 /* CloudKitUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02EB4F5D2734BF3E00CFCDF8 /* CloudKitUtility.swift */; };
 		B41F8AD42C167C3800530F0C /* PropertyWrapper2Bootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41F8AD32C167C3800530F0C /* PropertyWrapper2Bootcamp.swift */; };
+		B4C5C4F72C1D165D00D4E68F /* SubscriptsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C5C4F62C1D165D00D4E68F /* SubscriptsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -138,6 +139,7 @@
 		02EB4F5B2734AF1600CFCDF8 /* CloudKitPushNotificationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitPushNotificationBootcamp.swift; sourceTree = "<group>"; };
 		02EB4F5D2734BF3E00CFCDF8 /* CloudKitUtility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitUtility.swift; sourceTree = "<group>"; };
 		B41F8AD32C167C3800530F0C /* PropertyWrapper2Bootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyWrapper2Bootcamp.swift; sourceTree = "<group>"; };
+		B4C5C4F62C1D165D00D4E68F /* SubscriptsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -250,6 +252,7 @@
 				025725E62AC66412009ADA4A /* KeypathsBootcamp.swift */,
 				025725EA2AC70DE5009ADA4A /* PropertyWrapperBootcamp.swift */,
 				B41F8AD32C167C3800530F0C /* PropertyWrapper2Bootcamp.swift */,
+				B4C5C4F62C1D165D00D4E68F /* SubscriptsBootcamp.swift */,
 				029F8D8A26D45816006039A7 /* Assets.xcassets */,
 				029F8D8F26D45816006039A7 /* Info.plist */,
 				029F8D8C26D45816006039A7 /* Preview Content */,
@@ -499,6 +502,7 @@
 				025725E52AC3D9A8009ADA4A /* ErrorAlertBootcamp.swift in Sources */,
 				029F8E0526E98725006039A7 /* CustomNavBarPreferenceKeys.swift in Sources */,
 				029F8DDF26E66C4A006039A7 /* GeometryPreferenceKeyBootcamp.swift in Sources */,
+				B4C5C4F72C1D165D00D4E68F /* SubscriptsBootcamp.swift in Sources */,
 				029F8D9C26D5ADB2006039A7 /* MatchedGeometryEffectBootcamp.swift in Sources */,
 				029F8DF526E6D8E2006039A7 /* TabBarItem.swift in Sources */,
 				029F8DC626DADC8B006039A7 /* CustomShapesBootcamp.swift in Sources */,
